@@ -2575,3 +2575,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 22:20:21.835] [Server thread/DEBUG] [twilightforest/]: Player lizeth_xl (954d0142-eeeb-398a-9c49-8a9a35f91368) respawned and received items held in storage
 [01Aug2025 22:20:23.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 207.500000, 69.500000, 1561.500000]
 [01Aug2025 22:21:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to Sebaslade29]
+[01Aug2025 22:23:11.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 22:23:11.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 22:24:31.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1556.500000]
+[01Aug2025 22:25:25.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 110.500000, 75.500000, 1538.500000]
+[01Aug2025 22:27:29.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 219.500000, 82.500000, 1536.500000]
+[01Aug2025 22:28:11.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 22:28:11.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 22:31:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1555.500000]
