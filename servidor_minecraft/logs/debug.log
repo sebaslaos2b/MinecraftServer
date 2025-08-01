@@ -2996,3 +2996,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 17:51:00.942] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
 [01Aug2025 17:51:00.942] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [01Aug2025 17:51:00.942] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.305] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[01Aug2025 17:51:04.305] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.305] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.306] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[01Aug2025 17:51:04.306] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.306] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.309] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[01Aug2025 17:51:04.309] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.309] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[01Aug2025 17:51:04.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.314] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[01Aug2025 17:51:04.315] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.315] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[01Aug2025 17:51:04.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Aug2025 17:51:04.318] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Aug2025 17:51:04.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01Aug2025 17:51:04.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizeth_xl[/127.172.114.82:50689] logged in with entity id 6919 at (148.78298324137964, -6.0, 1531.4220011784766)
+[01Aug2025 17:51:04.496] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5a5307d0 into net.minecraft.network.Connection@1cea4669
+[01Aug2025 17:51:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl joined the game
+[01Aug2025 17:51:04.695] [Server thread/INFO] [Jade/]: Syncing config to lizeth_xl (954d0142-eeeb-398a-9c49-8a9a35f91368)
+[01Aug2025 17:51:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to MatjusGamer]
+[01Aug2025 17:52:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to MatjusGamer]
+[01Aug2025 17:52:38.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 17:52:38.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 17:54:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to Sebaslade29]
+[01Aug2025 17:55:25.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to lizeth_xl]
+[01Aug2025 17:55:56.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Set own game mode to Creative Mode]
+[01Aug2025 17:56:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Set own game mode to Survival Mode]
+[01Aug2025 17:57:38.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 17:57:38.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 17:58:43.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to johannxd10]
+[01Aug2025 17:58:49.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Monster Hunter]
+[01Aug2025 17:58:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to MatjusGamer]
+[01Aug2025 17:59:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to Sebaslade29]
+[01Aug2025 18:00:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to johannxd10]
