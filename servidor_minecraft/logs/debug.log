@@ -4017,3 +4017,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 20:07:38.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [01Aug2025 20:12:38.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [01Aug2025 20:12:38.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 20:17:38.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 20:17:38.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 20:19:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl was slain by Zombie
+[01Aug2025 20:21:06.704] [Server thread/DEBUG] [twilightforest/]: Player lizeth_xl (954d0142-eeeb-398a-9c49-8a9a35f91368) respawned and received items held in storage
+[01Aug2025 20:21:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 213.500000, 69.500000, 1533.500000]
+[01Aug2025 20:21:32.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Kanagalingam'/42122, l='ServerLevel[Mundo nuevo]', x=291.90, y=67.00, z=1496.08] died: Kanagalingam burned to death
+[01Aug2025 20:22:38.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 20:22:38.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
