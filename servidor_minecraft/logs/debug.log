@@ -3034,3 +3034,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 17:58:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to MatjusGamer]
 [01Aug2025 17:59:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to Sebaslade29]
 [01Aug2025 18:00:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to johannxd10]
+[01Aug2025 18:02:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to MatjusGamer]
+[01Aug2025 18:02:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Teleported MatjusGamer to Sebaslade29]
+[01Aug2025 18:02:38.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 18:02:38.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 18:04:09.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 261.500000, 84.500000, 1577.500000]
+[01Aug2025 18:04:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 261.500000, 84.500000, 1577.500000]
+[01Aug2025 18:04:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 261.500000, 84.500000, 1577.500000]
+[01Aug2025 18:06:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 261.500000, 84.500000, 1576.500000]
+[01Aug2025 18:07:38.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 18:07:38.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 18:08:51.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizeth_xl lost connection: Timed out
+[01Aug2025 18:08:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl left the game
