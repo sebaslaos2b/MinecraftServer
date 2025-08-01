@@ -281,3 +281,9 @@
 [01Aug2025 18:24:25.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=78, z=1554} BlockPos{x=-152, y=77, z=1554}
 [01Aug2025 18:27:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Teleported MatjusGamer to Sebaslade29]
 [01Aug2025 18:31:14.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=72, z=1529} BlockPos{x=136, y=71, z=1528}
+[01Aug2025 18:32:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Stone Age]
+[01Aug2025 18:34:43.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebaslade29 lost connection: Disconnected
+[01Aug2025 18:34:43.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebaslade29 left the game
+[01Aug2025 18:34:59.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set the time to 1000]
+[01Aug2025 18:35:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Creative Mode]
+[01Aug2025 18:36:30.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Survival Mode]
