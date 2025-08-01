@@ -3370,3 +3370,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 18:36:30.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Survival Mode]
 [01Aug2025 18:37:38.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [01Aug2025 18:37:38.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 18:42:38.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 18:42:38.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 18:45:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Sweet Dreams]
+[01Aug2025 18:47:38.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 18:47:38.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
