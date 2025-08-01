@@ -2402,3 +2402,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 21:49:25.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eufrosinia'/5540, l='ServerLevel[Mundo nuevo]', x=22.66, y=78.00, z=1524.70] died, message: 'Eufrosinia was slain by Zombie'
 [01Aug2025 21:49:25.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eufrosinia'/5540, l='ServerLevel[Mundo nuevo]', x=22.66, y=78.00, z=1524.70] died: Eufrosinia was slain by Zombie
 [01Aug2025 21:50:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1552.500000]
+[01Aug2025 21:53:11.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 21:53:11.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 21:58:11.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 21:58:11.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 21:59:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 104.500000, 79.500000, 1537.500000]
+[01Aug2025 22:00:38.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1555.500000]
+[01Aug2025 22:01:31.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 105.500000, 75.500000, 1540.500000]
+[01Aug2025 22:01:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1555.500000]
