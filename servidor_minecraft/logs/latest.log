@@ -290,3 +290,20 @@
 [01Aug2025 18:45:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Sweet Dreams]
 [01Aug2025 18:57:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Creative Mode]
 [01Aug2025 19:00:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Survival Mode]
+[01Aug2025 19:25:09.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: creu3[/127.192.202.153:56931] logged in with entity id 31294 at (105.14533772429415, 76.0, 1540.0445777510365)
+[01Aug2025 19:25:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 joined the game
+[01Aug2025 19:25:09.463] [Server thread/INFO] [Jade/]: Syncing config to creu3 (6e72d200-b3b8-3687-992c-f46fc6ccbddd)
+[01Aug2025 19:25:38.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@166749ad[id=<null>,name=lizeth_xl,properties={},legacy=false] (/127.172.114.82:56601) lost connection: Disconnected
+[01Aug2025 19:25:43.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebaslade29[/127.115.198.158:34205] logged in with entity id 31375 at (99.43753418354825, 75.875, 1531.8569708911305)
+[01Aug2025 19:25:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebaslade29 joined the game
+[01Aug2025 19:25:43.410] [Server thread/INFO] [Jade/]: Syncing config to Sebaslade29 (4354b1ed-12c7-3826-a2e7-2980df9d60e3)
+[01Aug2025 19:25:53.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d4c1de7[id=<null>,name=lizeth_xl,properties={},legacy=false] (/127.172.114.82:37523) lost connection: Disconnected
+[01Aug2025 19:26:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatjusGamer> oe un pata se quiere meter normal?
+[01Aug2025 19:26:32.779] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cf2714[id=<null>,name=lizeth_xl,properties={},legacy=false] (/127.172.114.82:36011) lost connection: Disconnected
+[01Aug2025 19:26:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebaslade29> si normal
+[01Aug2025 19:26:44.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lizeth_xl[/127.172.114.82:41049] logged in with entity id 31510 at (49.610479070827694, 60.0, 1326.0085278138267)
+[01Aug2025 19:26:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl joined the game
+[01Aug2025 19:26:45.035] [Server thread/INFO] [Jade/]: Syncing config to lizeth_xl (954d0142-eeeb-398a-9c49-8a9a35f91368)
+[01Aug2025 19:26:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatjusGamer> ya
+[01Aug2025 19:26:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebaslade29> con tal que no rompa el castillo baneao noma
+[01Aug2025 19:28:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to creu3]
