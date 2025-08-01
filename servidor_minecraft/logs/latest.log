@@ -319,3 +319,7 @@
 [01Aug2025 19:42:13.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to creu3]
 [01Aug2025 19:42:31.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 hit the ground too hard
 [01Aug2025 19:42:34.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [creu3: Teleported creu3 to lizeth_xl]
+[01Aug2025 19:46:00.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebaslade29 lost connection: Disconnected
+[01Aug2025 19:46:00.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebaslade29 left the game
+[01Aug2025 19:47:15.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: creu3 lost connection: Disconnected
+[01Aug2025 19:47:15.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 left the game
