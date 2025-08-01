@@ -2378,3 +2378,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 21:38:11.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [01Aug2025 21:38:11.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [01Aug2025 21:39:18.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 105.500000, 78.500000, 1537.500000]
+[01Aug2025 21:43:11.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 21:43:11.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 21:45:00.205] [Worker-Main-7/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Aug2025 21:45:00.205] [Worker-Main-7/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Aug2025 21:45:00.206] [Worker-Main-7/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Aug2025 21:45:00.209] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.210] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.210] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.210] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.210] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.210] [Worker-Main-7/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[01Aug2025 21:45:00.825] [Worker-Main-28/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Aug2025 21:45:00.826] [Worker-Main-28/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Aug2025 21:45:00.833] [Worker-Main-28/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Aug2025 21:45:00.845] [Worker-Main-28/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Aug2025 21:45:00.845] [Worker-Main-28/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Aug2025 21:47:52.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to Sebaslade29]
+[01Aug2025 21:48:11.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Aug2025 21:48:11.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Aug2025 21:49:15.949] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Eufrosinia}[style={}] has been infected
+[01Aug2025 21:49:17.000] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Eufrosinia}[style={}] has been infected
+[01Aug2025 21:49:25.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eufrosinia'/5540, l='ServerLevel[Mundo nuevo]', x=22.66, y=78.00, z=1524.70] died, message: 'Eufrosinia was slain by Zombie'
+[01Aug2025 21:49:25.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eufrosinia'/5540, l='ServerLevel[Mundo nuevo]', x=22.66, y=78.00, z=1524.70] died: Eufrosinia was slain by Zombie
+[01Aug2025 21:50:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lizeth_xl: Teleported lizeth_xl to 204.500000, 81.500000, 1552.500000]

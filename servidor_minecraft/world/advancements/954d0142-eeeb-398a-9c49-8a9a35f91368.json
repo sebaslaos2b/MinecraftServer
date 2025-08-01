@@ -22,7 +22,8 @@
       "maple_woods": "2025-07-31 23:49:12 +0000",
       "spider_nest": "2025-08-01 05:32:01 +0000",
       "redwood_forest": "2025-07-31 01:26:15 +0000",
-      "seasonal_forest": "2025-07-31 23:49:18 +0000"
+      "seasonal_forest": "2025-07-31 23:49:18 +0000",
+      "pumpkin_patch": "2025-08-01 21:45:23 +0000"
     },
     "done": false
   },
@@ -2124,6 +2125,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-08-01 19:31:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-01 21:45:47 +0000"
     },
     "done": true
   },
