@@ -161,3 +161,83 @@
 [01Aug2025 17:28:52.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=152, z=4}
 [01Aug2025 17:28:53.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=151, z=4}
 [01Aug2025 17:28:57.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=152, z=4}
+[01Aug2025 17:31:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Stone Age]
+[01Aug2025 17:32:13.079] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.080] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.080] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.080] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.082] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Aug2025 17:32:13.083] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.084] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.084] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.085] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.085] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.086] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.086] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.086] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.090] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.092] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.094] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.095] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Aug2025 17:32:13.096] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Aug2025 17:32:13.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Aug2025 17:32:13.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[01Aug2025 17:32:13.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:13.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Aug2025 17:32:36.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebaslade29[/127.115.198.158:33795] logged in with entity id 1040 at (109.90369411198907, 74.0, 1537.7687642646222)
+[01Aug2025 17:32:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebaslade29 joined the game
+[01Aug2025 17:32:36.573] [Server thread/INFO] [Jade/]: Syncing config to Sebaslade29 (4354b1ed-12c7-3826-a2e7-2980df9d60e3)
+[01Aug2025 17:32:39.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[01Aug2025 17:32:42.436] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VillagerEntityMCA['Corneliu'/1202, l='ServerLevel[Mundo nuevo]', x=14.21, y=86.50, z=1559.49]
+[01Aug2025 17:32:42.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VillagerEntityMCA['Lilian'/1204, l='ServerLevel[Mundo nuevo]', x=13.14, y=86.00, z=1558.16]
+[01Aug2025 17:32:42.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: VillagerEntityMCA['Vasile'/1206, l='ServerLevel[Mundo nuevo]', x=15.95, y=85.00, z=1556.83]
+[01Aug2025 17:32:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Getting an Upgrade]
+[01Aug2025 17:32:54.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebaslade29: Made johannxd10 a server operator]
+[01Aug2025 17:33:18.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to Sebaslade29]
+[01Aug2025 17:33:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Monster Hunter]
+[01Aug2025 17:34:10.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: johannxd10 lost connection: Disconnected
+[01Aug2025 17:34:10.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 left the game
+[01Aug2025 17:35:54.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: johannxd10[/127.159.183.182:33955] logged in with entity id 2072 at (104.326454708699, 75.0, 1540.4205900060974)
+[01Aug2025 17:35:54.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 joined the game
+[01Aug2025 17:35:54.305] [Server thread/INFO] [Jade/]: Syncing config to johannxd10 (c9842f85-9f4f-30d4-bdef-183a0edb0009)
+[01Aug2025 17:39:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Acquire Hardware]
+[01Aug2025 17:39:52.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Isn't It Iron Pick]
+[01Aug2025 17:40:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Suit Up]
+[01Aug2025 17:42:40.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatjusGamer[/127.202.144.127:43633] logged in with entity id 3722 at (1959.3127678679102, 76.0, 3448.7443125973628)
+[01Aug2025 17:42:40.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer joined the game
+[01Aug2025 17:42:40.103] [Server thread/INFO] [Jade/]: Syncing config to MatjusGamer (fb3f90eb-1a5a-3291-aa1f-7f16e55741e3)
+[01Aug2025 17:42:52.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12260ms or 245 ticks behind
+[01Aug2025 17:43:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 was impaled on a stalagmite
+[01Aug2025 17:43:15.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7601ms or 152 ticks behind
+[01Aug2025 17:43:34.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 73.500000, -29.500000, 1558.500000]
+[01Aug2025 17:43:36.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6339ms or 126 ticks behind
+[01Aug2025 17:43:53.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[01Aug2025 17:44:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Set own game mode to Creative Mode]
+[01Aug2025 17:44:21.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Set own game mode to Survival Mode]
+[01Aug2025 17:44:31.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[01Aug2025 17:44:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Diamonds!]
+[01Aug2025 17:45:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebaslade29: Made MatjusGamer a server operator]
+[01Aug2025 17:45:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Creative Mode]
+[01Aug2025 17:45:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Cover Me with Diamonds]
+[01Aug2025 17:46:17.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Diamonds!]
+[01Aug2025 17:46:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebaslade29: Set the weather to clear]
+[01Aug2025 17:46:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer has made the advancement [Acquire Hardware]
+[01Aug2025 17:47:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set own game mode to Survival Mode]
+[01Aug2025 17:47:39.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01Aug2025 17:47:42.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Teleported MatjusGamer to Sebaslade29]
+[01Aug2025 17:49:34.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: johannxd10 has made the advancement [Cover Me with Diamonds]
