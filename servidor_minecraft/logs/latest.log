@@ -263,3 +263,16 @@
 [01Aug2025 18:06:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to 261.500000, 84.500000, 1576.500000]
 [01Aug2025 18:08:51.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizeth_xl lost connection: Timed out
 [01Aug2025 18:08:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl left the game
+[01Aug2025 18:15:48.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: creu3[/127.192.202.153:40625] logged in with entity id 17032 at (210.69916751105234, 79.0, 1566.6168819733243)
+[01Aug2025 18:15:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 joined the game
+[01Aug2025 18:15:48.371] [Server thread/INFO] [Jade/]: Syncing config to creu3 (6e72d200-b3b8-3687-992c-f46fc6ccbddd)
+[01Aug2025 18:15:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to Sebaslade29]
+[01Aug2025 18:16:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [creu3: Teleported creu3 to johannxd10]
+[01Aug2025 18:16:39.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [johannxd10: Teleported johannxd10 to MatjusGamer]
+[01Aug2025 18:16:53.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: creu3 lost connection: Disconnected
+[01Aug2025 18:16:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 left the game
+[01Aug2025 18:17:11.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: creu3[/127.192.202.153:51187] logged in with entity id 17729 at (220.25154045724713, 69.0, 1485.3735897780389)
+[01Aug2025 18:17:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 joined the game
+[01Aug2025 18:17:11.704] [Server thread/INFO] [Jade/]: Syncing config to creu3 (6e72d200-b3b8-3687-992c-f46fc6ccbddd)
+[01Aug2025 18:20:35.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: creu3 lost connection: Disconnected
+[01Aug2025 18:20:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: creu3 left the game
