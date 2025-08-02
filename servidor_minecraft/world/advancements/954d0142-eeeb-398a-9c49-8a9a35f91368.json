@@ -310,6 +310,7 @@
       "cooked_mutton": "2025-08-01 18:07:31 +0000",
       "sweet_berries": "2025-07-31 01:32:00 +0000",
       "cooked_beef": "2025-07-31 23:47:46 +0000",
+      "baked_potato": "2025-08-02 00:12:11 +0000",
       "golden_apple": "2025-07-31 01:43:58 +0000",
       "bread": "2025-07-31 23:04:43 +0000",
       "rotten_flesh": "2025-08-01 06:15:47 +0000",
@@ -1109,6 +1110,7 @@
       "minecraft:skeleton": "2025-08-01 06:24:50 +0000",
       "minecraft:vindicator": "2025-08-01 06:17:24 +0000",
       "minecraft:spider": "2025-08-01 05:32:21 +0000",
+      "minecraft:creeper": "2025-08-02 00:09:25 +0000",
       "minecraft:cave_spider": "2025-08-01 05:32:38 +0000",
       "minecraft:zombie": "2025-07-31 01:51:56 +0000"
     },
@@ -2128,29 +2130,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
+      "has_copper_backpack": "2025-08-01 21:45:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
+      "has_stripped_logs": "2025-08-01 22:17:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
+      "has_log": "2025-08-01 22:17:12 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
@@ -2164,75 +2160,9 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-01 22:17:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-01 22:17:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-08-01 23:33:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 00:00:12 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-01 21:45:47 +0000"
     },
     "done": true
   },

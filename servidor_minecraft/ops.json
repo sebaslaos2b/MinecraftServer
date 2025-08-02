@@ -28,5 +28,11 @@
     "name": "MatjusGamer",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6f4775f6-6612-35d6-8fda-b8e40b3ce566",
+    "name": "Hanccor",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
