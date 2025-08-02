@@ -115,3 +115,5 @@
 [02Aug2025 01:06:29.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lizeth_xl lost connection: Disconnected
 [02Aug2025 01:06:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lizeth_xl left the game
 [02Aug2025 01:06:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MatjusGamer: Set the time to 1000]
+[02Aug2025 01:16:45.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatjusGamer lost connection: Disconnected
+[02Aug2025 01:16:45.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatjusGamer left the game
