@@ -23,6 +23,7 @@
       "highland": "2025-07-30 23:30:19 +0000",
       "maple_woods": "2025-07-31 00:36:27 +0000",
       "redwood_forest": "2025-07-30 23:11:10 +0000",
+      "seasonal_forest": "2025-08-02 00:27:29 +0000",
       "prairie": "2025-07-30 23:30:04 +0000"
     },
     "done": false
@@ -2331,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-02 00:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-02 00:11:14 +0000"
@@ -2358,6 +2365,18 @@
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-08-02 00:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-02 00:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-02 00:13:32 +0000"
     },
     "done": true
   },
