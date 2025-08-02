@@ -2228,3 +2228,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Aug2025 06:33:29.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [02Aug2025 06:38:29.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [02Aug2025 06:38:29.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Aug2025 06:43:29.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Aug2025 06:43:29.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Aug2025 06:48:29.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Aug2025 06:48:29.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
