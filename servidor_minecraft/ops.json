@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "6e5cb7f6-3544-3226-9984-2810ba6ace7e",
+    "name": "LETHALOSKY",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "954d0142-eeeb-398a-9c49-8a9a35f91368",
     "name": "lizeth_xl",
     "level": 4,
@@ -14,6 +20,12 @@
   {
     "uuid": "c9842f85-9f4f-30d4-bdef-183a0edb0009",
     "name": "johannxd10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f699187f-af2e-34e4-a4d9-b9c5a918b208",
+    "name": "l",
     "level": 4,
     "bypassesPlayerLimit": false
   },

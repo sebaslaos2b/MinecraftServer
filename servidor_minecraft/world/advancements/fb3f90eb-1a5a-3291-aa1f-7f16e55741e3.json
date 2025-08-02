@@ -1583,6 +1583,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-02 00:53:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-01 23:57:52 +0000"
