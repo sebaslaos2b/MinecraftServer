@@ -1713,78 +1713,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-02 01:02:47 +0000",
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
+      "has_carrot": "2025-08-02 00:47:27 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
+      "has_porkchop": "2025-08-02 00:47:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
+      "has_porkchop": "2025-08-02 00:47:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
+      "has_porkchop": "2025-08-02 00:47:48 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 01:02:12 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
@@ -1792,9 +1743,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_porkchop": "2025-08-02 00:47:48 +0000"
+      "has_mutton": "2025-08-02 00:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-02 00:47:49 +0000"
     },
     "done": true
   },
@@ -1810,35 +1767,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_porkchop": "2025-08-02 00:47:48 +0000"
+      "requirement": "2025-08-04 00:57:58 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-08-02 00:47:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-02 00:47:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-08-02 00:47:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-08-02 00:47:48 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
