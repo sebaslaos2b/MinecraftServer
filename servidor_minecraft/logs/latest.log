@@ -183,3 +183,5 @@
 [04Aug2025 00:56:39.413] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [04Aug2025 00:56:39.413] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [04Aug2025 00:56:39.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[04Aug2025 01:22:54.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LETHALOSKY lost connection: Disconnected
+[04Aug2025 01:22:54.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LETHALOSKY left the game

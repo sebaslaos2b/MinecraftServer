@@ -2222,3 +2222,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Aug2025 01:12:58.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [04Aug2025 01:17:58.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [04Aug2025 01:17:58.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Aug2025 01:22:54.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LETHALOSKY lost connection: Disconnected
+[04Aug2025 01:22:54.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LETHALOSKY left the game
+[04Aug2025 01:22:58.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Aug2025 01:22:58.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Aug2025 01:27:58.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Aug2025 01:27:58.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
